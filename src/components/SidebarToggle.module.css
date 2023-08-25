@@ -1,0 +1,10 @@
+.sidebarToggle {
+  grid-area: sT;
+  background-color: orange;
+}
+
+.sidebarToggle img {
+  width: 60px;
+  margin-left: 5px;
+  margin-top: 15px;
+}

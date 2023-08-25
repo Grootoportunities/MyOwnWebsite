@@ -1,0 +1,10 @@
+.navbar {
+  grid-area: n;
+  background-color: palegoldenrod;
+}
+
+.item {
+  margin: 35px;
+  margin-left: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
